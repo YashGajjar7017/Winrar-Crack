@@ -21,3 +21,5 @@ aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 Step 4: close and enjoy your Winrar <hr>
 ## Winrar Theme Installed
 ### Steps you want to fallow:
+Step 1: just open the Given file <br>
+Step 2: Click on Yes & your Theme was installed
