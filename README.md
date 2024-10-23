@@ -1,9 +1,9 @@
 # Winrar-Crack
 This is how we crack the Winrar on windows 10... This is only for Education purpose
 ## you have to Follows this Steps:
-Step 1: Goto your dir where Winrar was installed
-Step 2: make a file, name 'rarreg.key'
-Step 3: Paste this code inside
+Step 1: Goto your dir where Winrar was installed <br>
+Step 2: make a file, name 'rarreg.key' <br>
+Step 3: Paste this code inside <br>
 ```
 RAR registration data
 WinRAR
